@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 2459
+  controlID: 95
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1641
     height: 947
-  m_MinSize: {x: 404, y: 492}
+  m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2460
+  controlID: 96
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,10 +154,10 @@ MonoBehaviour:
     y: 0
     width: 1641
     height: 669
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 2461
+  controlID: 97
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,14 +203,14 @@ MonoBehaviour:
     height: 669
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 3
+  m_Selected: 3
+  m_LastSelected: 0
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -256,8 +256,8 @@ MonoBehaviour:
     y: 0
     width: 279
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -311,7 +311,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -370,9 +370,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a2e0000
-    m_LastClickedID: 0
-    m_ExpandedIDs: decefeff7c83ffff76a8ffffbeafffffcab4ffffd4b8ffff4cc0ffff36c4ffff00c8ffff06ccffff86d0ffff02d2ffffc6d5ffff5adbffff16ddfffff6dfffff02faffffe6fbffff000000002036000064370000c2380000e6780000c6840000c28a00009c9600009ea2000088a800005cb4000098c00000c2cc0000d6d80000cae40000f4f00000a6fc00006ace0100
+    m_SelectedIDs: 92330000
+    m_LastClickedID: 13202
+    m_ExpandedIDs: e6fbffff00000000722f000078310000be330000a6340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -579,21 +579,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Stage/First
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Stage/First
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Incun\Documents\GitHub\Unity-Billiards-Over-It\Billiards
-    Over It
+  m_LastProjectPath: C:\Users\Incun\Documents\GitHub\Billiards_Over_It\Billiards Over
+    It
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 176}
-    m_SelectedIDs: b82e0000
-    m_LastClickedID: 11960
-    m_ExpandedIDs: 00000000a82a0000ae2a0000e62a0000fc2a0000282b0000362b00006a2b00008a2b0000d42b0000e82b00002e2c00006a2c0000042e0000262e0000982e0000b82e00008e350000903500009235000094350000963500009835000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: a82a0000
+    m_LastClickedID: 10920
+    m_ExpandedIDs: 00000000a82a0000ae2a0000e62a0000fc2a0000282b0000362b00006a2b00008a2b0000d42b0000e82b00002e2c00006a2c0000042e0000262e0000982e0000b82e000070350000723500007435000076350000783500007a35000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -621,7 +621,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a82a0000ae2a0000e62a0000fc2a0000282b0000362b00006a2b00008a2b0000d42b0000e82b00002e2c00006a2c0000042e0000262e0000982e0000b82e00008e350000903500009235000094350000963500009835000000ca9a3b
+    m_ExpandedIDs: 00000000a82a0000ae2a0000e62a0000fc2a0000282b0000362b00006a2b00008a2b0000d42b0000e82b00002e2c00006a2c0000042e0000262e0000982e0000b82e000070350000723500007435000076350000783500007a350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

@@ -140,16 +140,16 @@
     <None Include="Assets\Package\iTween\HiziProjects\README.txt" />
     <None Include="Assets\Package\iTween\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Billiards-Over-It/Billiards Over It/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/Billiards_Over_It/Billiards Over It/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Billiards-Over-It/Billiards Over It/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/Billiards_Over_It/Billiards Over It/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Billiards-Over-It/Billiards Over It/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/Billiards_Over_It/Billiards Over It/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Billiards-Over-It/Billiards Over It/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/Billiards_Over_It/Billiards Over It/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
